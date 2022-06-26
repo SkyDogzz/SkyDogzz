@@ -7,6 +7,10 @@
 
 - 🔭 I’m currently working on **Blade Card**
 
+- 👨‍💻 All of my projects are available at [tstephan.fr](tstephan.fr)
+
+- 📫 How to reach me **thomas.stephan@live.fr**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/SkyDogzz#6138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SkyDogzz#6138" height="30" width="40" /></a>
