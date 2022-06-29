@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Blade Card**
 
-- 👨‍💻 All of my projects are available at [tstephan.fr](tstephan.fr)
+- 👨‍💻 All of my projects are available at [tstephan.fr](https://tstephan.fr)
 
 - 📫 How to reach me **thomas.stephan@live.fr**
 
