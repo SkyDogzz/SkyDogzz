@@ -6,8 +6,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=skydogzz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently searching for a apprenticeship in **Il de France**
-
 <!-- - 👨‍💻 All of my projects are available at [tstephan.fr](https://tstephan.fr) -->
 
 - 📫 How to reach me **thomas.stephan@live.fr**
